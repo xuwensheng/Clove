@@ -40,7 +40,7 @@ Click here to download directly, unzip the files and copy the folder into your G
 
 ### 2015-06-04
 
-- Version 1.0.0
+- Version 1.0
 
 ## Copyright & License
 
