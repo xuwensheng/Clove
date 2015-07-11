@@ -4,8 +4,6 @@ A clean, simple and responsive theme for [Ghost](https://github.com/tryghost/Gho
 
 ## Demo
 
----
-
 To preview, visit the [demo site]().
 
 ![capture-1](http://i3.tietuku.com/6e0049386573762d.png)
@@ -17,8 +15,6 @@ To preview, visit the [demo site]().
 ![capture-4](http://i3.tietuku.com/cf19de38ad222a84.png)
 
 ## Install
-
----
 
 ### Using Git
 
@@ -34,15 +30,11 @@ Click here to download directly, unzip the files and copy the folder into your G
 
 ## Changelog
 
----
-
 ### 2015-06-04
 
 - Version 1.0
 
 ## Copyright & License
-
----
 
 Clove is released under the [MIT License](http://mit-license.org/). See the bundled LICENSE file for 
 details.
