@@ -9,7 +9,7 @@ A clean, simple and responsive theme for [Ghost](https://github.com/tryghost/Gho
 
 ---
 
-To preview, visit the [demo site](http://q41cbe.kaukola-gd.diancloud.cn/).
+To preview, visit the [demo site]().
 
 ![capture-1](http://i3.tietuku.com/6e0049386573762d.png)
 
