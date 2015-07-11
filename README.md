@@ -1,7 +1,5 @@
 # Clove
 
----
-
 A clean, simple and responsive theme for [Ghost](https://github.com/tryghost/Ghost), based on [Casper](https://github.com/TryGhost/Casper), using [Handlebars](https://github.com/wycats/handlebars.js/) and [Bootstrap](https://github.com/twbs/bootstrap/).
 
 ## Demo
