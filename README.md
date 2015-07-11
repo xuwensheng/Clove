@@ -26,7 +26,7 @@ git clone https://github.com/xuwensheng/Clove.git "clove"
 
 ###Manually
 
-Click here to download directly, unzip the files and copy the folder into your Ghost theme directory *ghost/content/themes*.
+Click [here](https://github.com/xuwensheng/Clove/archive/master.zip) to download directly, unzip the files and copy the folder into your Ghost theme directory *ghost/content/themes*.
 
 ## Changelog
 
