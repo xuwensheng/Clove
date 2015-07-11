@@ -2,7 +2,6 @@
 
 ---
 
-
 A clean, simple and responsive theme for [Ghost](https://github.com/tryghost/Ghost), based on [Casper](https://github.com/TryGhost/Casper), using [Handlebars](https://github.com/wycats/handlebars.js/) and [Bootstrap](https://github.com/twbs/bootstrap/).
 
 ## Demo
@@ -20,6 +19,7 @@ To preview, visit the [demo site]().
 ![capture-4](http://i3.tietuku.com/cf19de38ad222a84.png)
 
 ## Install
+
 ---
 
 ### Using Git
