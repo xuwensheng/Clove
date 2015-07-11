@@ -21,7 +21,7 @@ To preview, visit the [demo site]().
 Navigate to your Ghost theme directory *ghost/content/themes*, and execute the following command.
 
 ```txt
-git clone https://github.com/DaiXiang/hexo-theme-BsLight.git "clove"
+git clone https://github.com/xuwensheng/Clove.git "clove"
 ```
 
 ###Manually
