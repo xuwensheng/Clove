@@ -1,0 +1,20 @@
+<div class="nav">
+    <h3 class="nav-title icon-nav">菜单</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">关闭</span>
+    </a>
+    <ul>
+        {{#foreach navigation}}
+            <li class="nav-{{slug}}{{#if current}} nav-current{{/if}}" role="presentation"><a href="{{url absolute="true"}}">{{label}}</a></li>
+        {{/foreach}}
+    </ul>
+	
+	<div class="socialnetwork">
+		<span><a href="#" title="你的GitHub" target="_blank"><i class="fa fa-github"></i></a></span>&nbsp;
+		<span><a href="#" title="你的LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a></span>&nbsp;
+		<span><a href="#" title="你的Tumblr" target="_blank"><i class="fa fa-tumblr"></i></a></span>&nbsp;
+		<span><a href="#" title="你的微博" target="_blank"><i class="fa fa-weibo"></i></a></span>
+	</div>
+	
+</div>
+<span class="nav-cover"></span>
