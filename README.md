@@ -36,5 +36,5 @@ Click [here](https://github.com/xuwensheng/Clove/archive/master.zip) to download
 
 ## Copyright & License
 
-Clove is released under the [MIT License](http://mit-license.org/). See the bundled LICENSE file for 
+[Clove](https://github.com/xuwensheng/Clove) is released under the [MIT License](http://mit-license.org/). See the bundled LICENSE file for 
 details.
