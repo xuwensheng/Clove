@@ -32,7 +32,7 @@ Click [here](https://github.com/xuwensheng/Clove/archive/master.zip) to download
 
 ### 2015-06-04
 
-- Version 1.0
+- Version 1.0.0
 
 ## Copyright & License
 
